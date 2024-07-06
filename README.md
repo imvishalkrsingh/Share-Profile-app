@@ -36,13 +36,6 @@ Getting started is a breeze:
 
 And 🚀 Your Share Profile App is up and running.
 
-## Usage
-
-Ready to showcase your profile? Here's how:
-
-1. [Include step-by-step instructions on how to use your app]
-2. [Feel free to add any helpful tips or tricks]
-
 ## Contributing
 
 Excited to have you on board! If you want to contribute:
